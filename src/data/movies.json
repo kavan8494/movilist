@@ -1,0 +1,13 @@
+{
+  "movies": [
+    {
+      "movieName": "kgf",
+      "hero": "yash",
+      "heroine": "sreenidhi",
+      "gener": "action",
+      "imdb": 10,
+      "id": 2,
+      "story": "KGF Chapter 1 is a film based on the gold mines that represents absolute power. The film is based on power struggle to rule these fields which eventually becomes one mans destiny and his final destination."
+    }
+  ]
+}
